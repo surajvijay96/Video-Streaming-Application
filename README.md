@@ -1,3 +1,5 @@
+A video streaming application built using ReactJS, Youtube API and Material UI library. Users can search for the content they wish and the top 5 results for those contents will be displayed. The user interface is similar to the youtube site containing the video channel name and a short description about each video
+
 ## Available Scripts
 
 In the project directory, you can run:
